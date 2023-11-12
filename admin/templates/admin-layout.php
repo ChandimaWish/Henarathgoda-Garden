@@ -34,7 +34,7 @@
         <!-- <div class="sidebar-brand-icon rotate-n-15"> -->
         <div class="sidebar-brand-icon">
           <!-- <i class="fas fa-laugh-wink"></i> -->
-          <img src="../img/zoolg.png" alt="" style="width: 95px; border-radius: 20%">
+          <!-- <img src="../img/zoolg.png\" alt="" style="width: 95px; border-radius: 20%"> -->
         </div>
         <div class="sidebar-brand-text mx-3">Admin   </div>
       </a>
